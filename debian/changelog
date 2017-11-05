@@ -1,0 +1,12 @@
+sqlite3-kladr-data (2010.08.08) unstable; urgency=low
+
+  * Add original KLADR archive base.7z
+  * Add script "make" for building SQLite3 database from dbf files.
+
+ -- Alexey Pechnikov <pechnikov@mobigroup.ru>  Sun, 08 Aug 2010 22:57:48 +0400
+
+sqlite3-kladr-data (2010.01.16) unstable; urgency=low
+
+  * Initial reliase.
+
+ -- Alexey Pechnikov <pechnikov@mobigroup.ru>  Sat, 16 Jan 2010 07:54:40 +0300
